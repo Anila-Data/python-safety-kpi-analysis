@@ -19,3 +19,9 @@ Analyze workplace safety trends for 2024 and compute industry-standard KPIs — 
 1. Open the notebook in Jupyter or Google Colab.  
 2. Ensure `safety_incidents_2024.csv` is in the same folder.  
 3. Run all cells to regenerate KPIs and charts.
+
+**What this project demonstrates**
+1. Python data analysis with pandas
+2. Safety metrics: TRIR and LTIR (industry-standard, OSHA-style)
+3. Clear, reproducible Jupyter notebook
+4. Simple matplotlib visuals
